@@ -1,2 +1,3 @@
-# opencart-demo-v3
- 
+# opencart-demo
+
+OpenCart Demo Application
